@@ -1,0 +1,38 @@
+# PARKSMART EMBEDDED DATABASE STORAGE FILE
+# Version 1.0 - Auto-managed
+
+[TABLE:parking_slots]
+1|BK-01|BIKE|false|
+2|BK-02|BIKE|false|
+3|BK-03|BIKE|false|
+4|BK-04|BIKE|false|
+5|BK-05|BIKE|false|
+6|BK-06|BIKE|false|
+7|BK-07|BIKE|false|
+8|BK-08|BIKE|false|
+9|BK-09|BIKE|false|
+10|BK-10|BIKE|false|
+11|CR-01|CAR|true|KL-07-TEST-9999
+12|CR-02|CAR|false|
+13|CR-03|CAR|false|
+14|CR-04|CAR|false|
+15|CR-05|CAR|false|
+16|CR-06|CAR|false|
+17|CR-07|CAR|false|
+18|CR-08|CAR|false|
+19|CR-09|CAR|false|
+20|CR-10|CAR|false|
+21|CR-11|CAR|false|
+22|CR-12|CAR|false|
+23|CR-13|CAR|false|
+24|CR-14|CAR|false|
+25|CR-15|CAR|false|
+26|BS-01|BUS|false|
+27|BS-02|BUS|false|
+28|BS-03|BUS|false|
+29|BS-04|BUS|false|
+30|BS-05|BUS|false|
+
+[TABLE:parking_tickets]
+TKT-1001|KL-07-TEST-9999|Test Owner|CAR|11|CR-01|2026-10-29 16:36:31||0|50.00|0.00|ACTIVE
+TKT-1003|KL-01-CJ 7800|ABC|CAR|12|CR-02|2026-10-29 19:56:51|2026-10-29 19:57:12|1|50.00|50.00|COMPLETED
